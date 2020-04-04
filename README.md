@@ -13,13 +13,17 @@
 * [Site Pessoal](http://sites.google.com/site/joylan)
 * [Currículo Lattes](http://lattes.cnpq.br/1177414528561833)
 
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+## Projetos (Atualizados Em Breve):
+Veja os tutoriais que serão publicados:
 * **Comandos básicos do Python:** https://bit.ly/2L2cMwy
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Como plotar gráficos em Python:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
 * **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Como criar uma Rede Neural Artificial:** https://bit.ly/2ZlaNsV
+* **Introdução a Deep Learning:** https://bit.ly/2ZlaNsV
+* **Introdução a Convolutional Neural Network:** https://bit.ly/2ZlaNsV
+* **Introdução a Long Termo Short Memory Network:** https://bit.ly/2ZlaNsV
