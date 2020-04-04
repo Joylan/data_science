@@ -10,7 +10,8 @@
 **Trabalhou com** C, Java, Android, Python e Machine Learning.
 
 **Links:**
-* [Site](http://sites.google.com/site/joylan)
+* [Site Pessoal](http://sites.google.com/site/joylan)
+* [Currículo Lattes](http://lattes.cnpq.br/1177414528561833)
 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
