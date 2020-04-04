@@ -5,7 +5,7 @@
 </p>
 
 # Joylan Maciel
-<sub>*Professor* na Universidade Federal da Integração Latino Americana (UNILA</sub>
+<sub>*Professor* de Computação na Universidade Federal da Integração Latino Americana (UNILA</sub>
 
 **Trabalhou com** C, Java, Android, Python e Machine Learning.
 
@@ -13,8 +13,7 @@
 * [Site Pessoal](http://sites.google.com/site/joylan)
 * [Currículo Lattes](http://lattes.cnpq.br/1177414528561833)
 
-## Projetos (Atualizados Em Breve):
-Veja os tutoriais que serão publicados:
+## Projetos que serão desenvolvidos e publicados aqui (em breve):
 * **Comandos básicos do Python:** https://bit.ly/2L2cMwy
 * **Como plotar gráficos em Python:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
