@@ -7,7 +7,7 @@
 # Joylan Maciel
 <sub>*Professor* de Computação na Universidade Federal da Integração Latino Americana (UNILA</sub>
 
-**Teve experiência com as linguagens de programação ** C, C++, PHP, HTML, Java e agora estuda Python e Machine Learning.
+Este repositório contem notebooks de Data Science com exemplos de Machine Learning na linguagem Python.
 
 **Links relevantes:**
 * [Site Pessoal](http://sites.google.com/site/joylan)
