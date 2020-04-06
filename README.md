@@ -7,22 +7,19 @@
 # Joylan Maciel
 <sub>*Professor* de Computação na Universidade Federal da Integração Latino Americana (UNILA</sub>
 
-**Trabalhou com** C, Java, Android, Python e Machine Learning.
+**Teve experiência com as linguagens de programação ** C, C++, PHP, HTML, Java e agora estuda Python e Machine Learning.
 
-**Links:**
+**Links relevantes:**
 * [Site Pessoal](http://sites.google.com/site/joylan)
 * [Currículo Lattes](http://lattes.cnpq.br/1177414528561833)
 
-## Projetos que serão desenvolvidos e publicados aqui (em breve):
-* **Comandos básicos do Python:** https://bit.ly/2L2cMwy
+## Projetos que serão desenvolvidos e publicados neste repositório de Data Science (em breve):
+* **Como carregar dados** https://bit.ly/2L2cMwy
 * **Como plotar gráficos em Python:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
 * **Como criar uma Rede Neural Artificial:** https://bit.ly/2ZlaNsV
-* **Introdução a Deep Learning:** https://bit.ly/2ZlaNsV
-* **Introdução a Convolutional Neural Network:** https://bit.ly/2ZlaNsV
-* **Introdução a Long Termo Short Memory Network:** https://bit.ly/2ZlaNsV
+* **Introdução a Deep Learning com Tensor Flow e Keras:** https://bit.ly/2ZlaNsV
+* **Introdução a Convolutional Neural Network - CNN:** https://bit.ly/2ZlaNsV
+* **Introdução a Long Termo Short Memory Network - LTSM:** https://bit.ly/2ZlaNsV
